@@ -1,4 +1,4 @@
-# minimal-academic-website
+# CS200-Testbed - minimal-academic-website
 
 If you are an academic, **[you should have a website](https://kenworthy.space/advice.html#advpage)**. _Really._ It’s just frustrating and annoying if you are trying to google somebody because you have read their paper / seen their poster / some other reason, and want to get in touch, and you can’t even find an e-mail address.
 
